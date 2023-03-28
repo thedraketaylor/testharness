@@ -20,6 +20,4 @@ Outputs:
   MainBucketName:
     Description: Name of the main bucket
     Value: !Ref MainBucket
-  LogBucketName:
-    Description: Name of the access log bucket
-    Value: !Ref AccessLogBucket
+
