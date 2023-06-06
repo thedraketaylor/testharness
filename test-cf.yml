@@ -2,7 +2,7 @@ AWSTemplateFormatVersion: "2010-09-09"
 Description: Simple cloud formation for bucket creation and configuration
 
 Parameters:
-  BucketName: { Type: String, Default: "drakeworld-harness" }
+  BucketName: { Type: String, Default: "drake-ahead-harness-demo" }
 
 Resources:  
   MainBucket:
